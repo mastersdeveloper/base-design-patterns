@@ -1,0 +1,4 @@
+E:\Repository-Dev\NET\base-design-patterns\base-design-patterns\04-StrategyPattern\obj\Debug\netcoreapp3.1\04-StrategyPattern.csproj.AssemblyReference.cache
+E:\Repository-Dev\NET\base-design-patterns\base-design-patterns\04-StrategyPattern\obj\Debug\netcoreapp3.1\04-StrategyPattern.AssemblyInfoInputs.cache
+E:\Repository-Dev\NET\base-design-patterns\base-design-patterns\04-StrategyPattern\obj\Debug\netcoreapp3.1\04-StrategyPattern.AssemblyInfo.cs
+E:\Repository-Dev\NET\base-design-patterns\base-design-patterns\04-StrategyPattern\obj\Debug\netcoreapp3.1\04-StrategyPattern.csproj.CoreCompileInputs.cache

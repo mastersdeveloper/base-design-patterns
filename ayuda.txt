@@ -1,0 +1,31 @@
+
+Clase Abstracta: una clase que declara la existencia de métodos pero no la implementación de dichos métodos
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+Patrones de diseño (design patterns) ||
+---------------------------------------
+
+	* Patron Creacional
+	* Patron de Comportamiento
+
+
+Singleton (Patron Creacional): creado para resolver cuando necesitas crear una instancia de tu clase a pesar que haya miles de procesos, se crea una sola instancia
+
+Prototype (Patron Creacional): sirve para CLONAR un objeto y crear otro a partir de ese y que tenga funcionalidades diferentes
+	* Clonacion superficial: clonar atributos de una clase 
+	
+	* Clonacion profundidad: clonar objetos que a su vez tienen objetos dentro
+
+Factory Method (Patron Creacional): sirve cuando hay varios objetos que van a herederar de la misma clase y quieres que una clase externa lleve la logistica 
+                                   y la va a crear
+
+Strategy Pattern (Patron de Comportamiento): es un patron de comportamiento, organiza el comportamiento de un objeto y que puede cambiar dinamicamente
+		* Contexto => la clase por la cual vamos a crear el objeto
+		* Estrategia 
+		* Estrategia Concreta
+		
+		Formas:
+		- Transforme o mute a otro objecto
+		- Reciba una opcion para que trabajae de una u otra
+
+Mediator (Patron de Comportamiento):  
