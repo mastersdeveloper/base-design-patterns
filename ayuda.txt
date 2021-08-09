@@ -9,17 +9,17 @@ Patrones de diseño (design patterns) ||
 	* Patron de Comportamiento
 
 
-Singleton (Patron Creacional): creado para resolver cuando necesitas crear una instancia de tu clase a pesar que haya miles de procesos, se crea una sola instancia
+1- Singleton (Patron Creacional): creado para resolver cuando necesitas crear una instancia de tu clase a pesar que haya miles de procesos, se crea una sola instancia
 
-Prototype (Patron Creacional): sirve para CLONAR un objeto y crear otro a partir de ese y que tenga funcionalidades diferentes
+2- Prototype (Patron Creacional): sirve para CLONAR un objeto y crear otro a partir de ese y que tenga funcionalidades diferentes
 	* Clonacion superficial: clonar atributos de una clase 
 	
 	* Clonacion profundidad: clonar objetos que a su vez tienen objetos dentro
 
-Factory Method (Patron Creacional): sirve cuando hay varios objetos que van a herederar de la misma clase y quieres que una clase externa lleve la logistica 
+3- Factory Method (Patron Creacional): sirve cuando hay varios objetos que van a herederar de la misma clase y quieres que una clase externa lleve la logistica 
                                    y la va a crear
 
-Strategy Pattern (Patron de Comportamiento): es un patron de comportamiento, organiza el comportamiento de un objeto y que puede cambiar dinamicamente
+4- Strategy Pattern (Patron de Comportamiento): es un patron de comportamiento, organiza el comportamiento de un objeto y que puede cambiar dinamicamente
 		* Contexto => la clase por la cual vamos a crear el objeto
 		* Estrategia 
 		* Estrategia Concreta
@@ -28,4 +28,27 @@ Strategy Pattern (Patron de Comportamiento): es un patron de comportamiento, org
 		- Transforme o mute a otro objecto
 		- Reciba una opcion para que trabajae de una u otra
 
-Mediator (Patron de Comportamiento):  
+5- Mediator (Patron de Comportamiento): actua sobre el comportamiento de los objetos, se usa cuando necesitas realizar cambios al codigo cuando lo refactorizas.
+                                     Es un mediador de comunicacion entre objetos. Cuando es necesario enviar un mensaje o un valor
+	
+		* Mediator (Interface): es una interfaz que contiene un metodo para obtener todos los objetos,para tenerlos agrupados y metodos para la comunicacion		
+		
+6- State (Patron de Comportamiento): representa el estado de un objeto realizando el comportamiento de formas diferentes
+
+7- Composite (Patron de Estructural): sirve para construir objetos complejos a partir de otros más simples y similares entre sí
+
+8- Inyeccion de Dependencias (Patron orientado a objetos): para resolver la problematica y realizar el principio de inversion SOLID. en el que se 
+								 suministran objetos a una clase en lugar de ser la propia clase la que cree dichos objetos. Esos objetos cumplen 
+								 contratos que necesitan nuestras clases para poder funcionar.
+								 
+	- Principio inversion de dependencias: que un objeto no dependa de la creacion interna de otro para ser creada
+
+		
+		
+		
+		
+		
+		
+		
+		
+		

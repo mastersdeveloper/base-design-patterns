@@ -1,0 +1,12 @@
+E:\Repository-Dev\NET\base-design-patterns\base-design-patterns\08-InyeccionDependencias\bin\Debug\netcoreapp3.1\08-InyeccionDependencias.exe
+E:\Repository-Dev\NET\base-design-patterns\base-design-patterns\08-InyeccionDependencias\bin\Debug\netcoreapp3.1\08-InyeccionDependencias.deps.json
+E:\Repository-Dev\NET\base-design-patterns\base-design-patterns\08-InyeccionDependencias\bin\Debug\netcoreapp3.1\08-InyeccionDependencias.runtimeconfig.json
+E:\Repository-Dev\NET\base-design-patterns\base-design-patterns\08-InyeccionDependencias\bin\Debug\netcoreapp3.1\08-InyeccionDependencias.runtimeconfig.dev.json
+E:\Repository-Dev\NET\base-design-patterns\base-design-patterns\08-InyeccionDependencias\bin\Debug\netcoreapp3.1\08-InyeccionDependencias.dll
+E:\Repository-Dev\NET\base-design-patterns\base-design-patterns\08-InyeccionDependencias\bin\Debug\netcoreapp3.1\08-InyeccionDependencias.pdb
+E:\Repository-Dev\NET\base-design-patterns\base-design-patterns\08-InyeccionDependencias\obj\Debug\netcoreapp3.1\08-InyeccionDependencias.AssemblyInfoInputs.cache
+E:\Repository-Dev\NET\base-design-patterns\base-design-patterns\08-InyeccionDependencias\obj\Debug\netcoreapp3.1\08-InyeccionDependencias.AssemblyInfo.cs
+E:\Repository-Dev\NET\base-design-patterns\base-design-patterns\08-InyeccionDependencias\obj\Debug\netcoreapp3.1\08-InyeccionDependencias.csproj.CoreCompileInputs.cache
+E:\Repository-Dev\NET\base-design-patterns\base-design-patterns\08-InyeccionDependencias\obj\Debug\netcoreapp3.1\08-InyeccionDependencias.dll
+E:\Repository-Dev\NET\base-design-patterns\base-design-patterns\08-InyeccionDependencias\obj\Debug\netcoreapp3.1\08-InyeccionDependencias.pdb
+E:\Repository-Dev\NET\base-design-patterns\base-design-patterns\08-InyeccionDependencias\obj\Debug\netcoreapp3.1\08-InyeccionDependencias.genruntimeconfig.cache

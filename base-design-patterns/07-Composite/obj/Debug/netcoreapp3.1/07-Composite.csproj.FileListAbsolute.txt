@@ -1,0 +1,13 @@
+E:\Repository-Dev\NET\base-design-patterns\base-design-patterns\07-Composite\bin\Debug\netcoreapp3.1\07-Composite.exe
+E:\Repository-Dev\NET\base-design-patterns\base-design-patterns\07-Composite\bin\Debug\netcoreapp3.1\07-Composite.deps.json
+E:\Repository-Dev\NET\base-design-patterns\base-design-patterns\07-Composite\bin\Debug\netcoreapp3.1\07-Composite.runtimeconfig.json
+E:\Repository-Dev\NET\base-design-patterns\base-design-patterns\07-Composite\bin\Debug\netcoreapp3.1\07-Composite.runtimeconfig.dev.json
+E:\Repository-Dev\NET\base-design-patterns\base-design-patterns\07-Composite\bin\Debug\netcoreapp3.1\07-Composite.dll
+E:\Repository-Dev\NET\base-design-patterns\base-design-patterns\07-Composite\bin\Debug\netcoreapp3.1\07-Composite.pdb
+E:\Repository-Dev\NET\base-design-patterns\base-design-patterns\07-Composite\obj\Debug\netcoreapp3.1\07-Composite.csproj.AssemblyReference.cache
+E:\Repository-Dev\NET\base-design-patterns\base-design-patterns\07-Composite\obj\Debug\netcoreapp3.1\07-Composite.AssemblyInfoInputs.cache
+E:\Repository-Dev\NET\base-design-patterns\base-design-patterns\07-Composite\obj\Debug\netcoreapp3.1\07-Composite.AssemblyInfo.cs
+E:\Repository-Dev\NET\base-design-patterns\base-design-patterns\07-Composite\obj\Debug\netcoreapp3.1\07-Composite.csproj.CoreCompileInputs.cache
+E:\Repository-Dev\NET\base-design-patterns\base-design-patterns\07-Composite\obj\Debug\netcoreapp3.1\07-Composite.dll
+E:\Repository-Dev\NET\base-design-patterns\base-design-patterns\07-Composite\obj\Debug\netcoreapp3.1\07-Composite.pdb
+E:\Repository-Dev\NET\base-design-patterns\base-design-patterns\07-Composite\obj\Debug\netcoreapp3.1\07-Composite.genruntimeconfig.cache
